@@ -1,7 +1,7 @@
 # management_consulting_presentations
 
-## December 2023
-#### MBB (McKinsey, BCG, Bain):
+# December 2023
+### MBB (McKinsey, BCG, Bain):
 - [McKinsey - Die 12 wichtigsten Klimatechnologien können bis 2050 ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-12-05%20klimatechnologien/23%2012%2005%20klimatechnologien_vfinal.pdf)
 - [McKinsey - Highlights of 2023](https://www.mckinsey.com/~/media/mckinsey/mckinsey%20health%20institute/our%20insights/mhi%20highlights%202023/mhi-2023-compendium.pdf)
 - [McKinsey - Korea's next S-curve: A new economic growth model for 2040](http://www.mckinsey.com/~/media/mckinsey/locations/asia/korea/our%20insights/koreas%20next%20s%20curve%20a%20new%20economic%20growth%20model%20for%202040/koreas-next-s-curve-a-new-economic-growth-model-for-2040.pdf)
@@ -18,13 +18,13 @@
 - [Bain - How India Shops Online 2023 - NET](https://www.bain.com/globalassets/bain_report_how_india_shops_online_2023.pdf)
 - [Bain - True North Women Leadership Program](https://www.bain.com/contentassets/f855be0f655244b1908bc2485045ad1f/true-north-women-leadership-program-flyer.pdf)
 
-### Others:
+## Others:
 - [Roland Berger - サステナビリティ変革(SX)支援サービス](https://www.rolandberger.com/publications/publication_pdf/rolandberger_japan_sxservice.pdf)
 
 ---
 
-## November 2023
-#### MBB (McKinsey, BCG, Bain):
+# November 2023
+### MBB (McKinsey, BCG, Bain):
 - [McKinsey - Bioweg gewinnt „THE SPARK – Der deutsche Digitalpreis ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-23%20the%20spark%20der%20deutsche%20digitalpreis%202023/the%20spark%202023%20-%20finale.pdf)
 - [McKinsey - Decarbonization and beyond in the Netherlands](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/from%20ambition%20to%20action%20decarbonization%20and%20beyond%20in%20the%20netherlands/from-ambition-to-action-decarbonization-and-beyond-in-the-netherlands-final.pdf)
 - [McKinsey - Four key themes from InsureTech Connect 2023](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/insurance%20blog/four%20key%20themes%20from%20insuretech%20connect%202023/mck_itc_blogpost_v3.pdf)
@@ -35,7 +35,7 @@
 - [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
 - [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
 
-### Others:
+## Others:
 - [Alvarez and Marshal - A Guide for the Chief Marketing Officer](https://www.alvarezandmarsal.com/printpdf/66036--en)
 - [Alvarez and Marshal - Gen AI Solutions for Private Equity](https://www.alvarezandmarsal.com/printpdf/65516--en)
 - [Alvarez and Marshal - How Cyberattacks Can Push Companies to the Brink of ...](https://www.alvarezandmarsal.com/printpdf/66061--en)
