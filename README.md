@@ -21,14 +21,25 @@
 ### Others:
 - [Roland Berger - サステナビリティ変革(SX)支援サービス](https://www.rolandberger.com/publications/publication_pdf/rolandberger_japan_sxservice.pdf)
 
+---
+
 ## November 2023
+### MBB (McKinsey, BCG, Bain):
+- [McKinsey - Bioweg gewinnt „THE SPARK – Der deutsche Digitalpreis ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-23%20the%20spark%20der%20deutsche%20digitalpreis%202023/the%20spark%202023%20-%20finale.pdf)
+- [McKinsey - Decarbonization and beyond in the Netherlands](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/from%20ambition%20to%20action%20decarbonization%20and%20beyond%20in%20the%20netherlands/from-ambition-to-action-decarbonization-and-beyond-in-the-netherlands-final.pdf)
+- [McKinsey - Four key themes from InsureTech Connect 2023](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/insurance%20blog/four%20key%20themes%20from%20insuretech%20connect%202023/mck_itc_blogpost_v3.pdf)
+- [McKinsey - GenAI kann akuten Bedarf bei hochqualifizierten Jobs lindern](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-24%20genai%20implikationen%20deutschlands%20arbeitsmarkt/pressemitteilung_mckinsey-analyse_genai-impliationen_arbeitsmarkt_vf.pdf)
+- [McKinsey - Modeindustrie steht unsicheres Jahr 2024 bevor – GenAI ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-28%20state%20of%20fashion%202024/pressemitteilung%20-%20the%20state%20of%20fashion%202024%20-%20final_website.pdf)
+- [McKinsey - Our Code of Conduct](http://www.mckinsey.com/~/media/mckinsey/about%20us/code%20of%20conduct/mckinsey-our-code-of-conduct.pdf)
+- [BCG - How Resuming Student Loan Payments Will Affect ...](https://media-publications.bcg.com/How-Resuming-Student-Loan-Payments-Will-Affect-Consumer-Credit-Risk.pdf)
+- [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
+- [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
+
+### Others:
 - [Alvarez and Marshal - A Guide for the Chief Marketing Officer](https://www.alvarezandmarsal.com/printpdf/66036--en)
 - [Alvarez and Marshal - Gen AI Solutions for Private Equity](https://www.alvarezandmarsal.com/printpdf/65516--en)
 - [Alvarez and Marshal - How Cyberattacks Can Push Companies to the Brink of ...](https://www.alvarezandmarsal.com/printpdf/66061--en)
 - [Alvarez and Marshal - LEVERAGING THE POWER OF GENERATIVE AI FOR ...](https://www.alvarezandmarsal.com/sites/default/files/2023-11/A%20Guide%20for%20the%20Chief%20Marketing%20Officer%20-%20Leveraging%20the%20Power%20of%20Generative%20Artificial%20Intelligence%20for%20Strategic%20Marketing%20Planning.pdf)
-- [BCG - How Resuming Student Loan Payments Will Affect ...](https://media-publications.bcg.com/How-Resuming-Student-Loan-Payments-Will-Affect-Consumer-Credit-Risk.pdf)
-- [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
-- [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
 - [EY Parthenon - 2024 Global Insurance Outlook](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/insurance/insurance-pdfs/ey-2024-global-insurance-outlook-report-v2.pdf)
 - [EY Parthenon - Comparing levels of engagement in over 150 sports](https://assets.ey.com/content/dam/ey-sites/ey-com/en_uk/resources/ey-sports-engagement-index-2023-v4.pdf)
 - [EY Parthenon - Generative AI in retail and commercial banking](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/banking-and-capital-markets/ey-generative-ai-in-retail-and-commercial-banking.pdf?download)
@@ -38,12 +49,6 @@
 - [EY Parthenon - Renewable Energy Country Attractiveness Index](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/power-and-utilities/ey-recai-62-v9-final.pdf)
 - [EY Parthenon - Top 10 risks in telecommunications](https://assets.ey.com/content/dam/ey-sites/ey-com/sv_se/news/2023/ey-top-10-telecoms-risks-2024.pdf)
 - [EY Parthenon - Tourism update 2023](https://assets.ey.com/content/dam/ey-sites/ey-com/tr_tr/pdf/ey-tourism-market-overview-2023-v22.pdf)
-- [McKinsey - Bioweg gewinnt „THE SPARK – Der deutsche Digitalpreis ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-23%20the%20spark%20der%20deutsche%20digitalpreis%202023/the%20spark%202023%20-%20finale.pdf)
-- [McKinsey - Decarbonization and beyond in the Netherlands](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/from%20ambition%20to%20action%20decarbonization%20and%20beyond%20in%20the%20netherlands/from-ambition-to-action-decarbonization-and-beyond-in-the-netherlands-final.pdf)
-- [McKinsey - Four key themes from InsureTech Connect 2023](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/insurance%20blog/four%20key%20themes%20from%20insuretech%20connect%202023/mck_itc_blogpost_v3.pdf)
-- [McKinsey - GenAI kann akuten Bedarf bei hochqualifizierten Jobs lindern](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-24%20genai%20implikationen%20deutschlands%20arbeitsmarkt/pressemitteilung_mckinsey-analyse_genai-impliationen_arbeitsmarkt_vf.pdf)
-- [McKinsey - Modeindustrie steht unsicheres Jahr 2024 bevor – GenAI ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-28%20state%20of%20fashion%202024/pressemitteilung%20-%20the%20state%20of%20fashion%202024%20-%20final_website.pdf)
-- [McKinsey - Our Code of Conduct](http://www.mckinsey.com/~/media/mckinsey/about%20us/code%20of%20conduct/mckinsey-our-code-of-conduct.pdf)
 - [PwC - Cognitive Cities](https://www.pwc.com/m1/en/publications/documents/cognitive-cities-a-journey-to-intelligent-urbanism.pdf)
 - [PwC - Emerging Trends in Real Estate® Asia Pacific 2024](https://www.pwc.com/sg/en/publications/assets/page/emerging-trends-in-real-estate-apac-2024.pdf)
 - [PwC - ESG and Sustainability Value Creation in the Climate ...](https://www.pwc.com/id/en/publications/esg/esg-sustainability-value-creation.pdf)
