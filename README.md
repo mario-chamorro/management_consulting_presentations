@@ -2,11 +2,9 @@
 
 # December 2023
 ### MBB (McKinsey, BCG, Bain):
-- [McKinsey - Die 12 wichtigsten Klimatechnologien können bis 2050 ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-12-05%20klimatechnologien/23%2012%2005%20klimatechnologien_vfinal.pdf)
 - [McKinsey - Highlights of 2023](https://www.mckinsey.com/~/media/mckinsey/mckinsey%20health%20institute/our%20insights/mhi%20highlights%202023/mhi-2023-compendium.pdf)
 - [McKinsey - Korea's next S-curve: A new economic growth model for 2040](http://www.mckinsey.com/~/media/mckinsey/locations/asia/korea/our%20insights/koreas%20next%20s%20curve%20a%20new%20economic%20growth%20model%20for%202040/koreas-next-s-curve-a-new-economic-growth-model-for-2040.pdf)
 - [McKinsey - McKinsey on Finance](http://www.mckinsey.com/~/media/mckinsey/business%20functions/strategy%20and%20corporate%20finance/our%20insights/mckinsey%20on%20finance%20number%2084/mckinsey-on-finance-number-84.pdf)
-- [McKinsey - マッキンゼー中国自動車 消費者インサイト 2023年版](https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/mckinsey_china_auto_consumer_insights_2023_vf.pdf)
 - [BCG - COP28 MEDIA BRIEF FOOD SYSTEMS & SECURITY](https://media-publications.bcg.com/BCG-Media-Brief-Food-Systems-Security.pdf)
 - [BCG - Emission critical: - From grey to green for hard-to-abate](https://media-publications.bcg.com/Emission-Critical-From-grey-to-green-for-hard-to-abate-Dec-23.pdf)
 - [BCG - How AI Is Accelerating the Clamp Down on Complex Mule ...](https://media-publications.bcg.com/How-AI-Is-Accelerating-Clamp-Down-on-Complex-Mule-Accounts.pdf)
@@ -25,14 +23,13 @@
 
 # November 2023
 ### MBB (McKinsey, BCG, Bain):
-- [McKinsey - Bioweg gewinnt „THE SPARK – Der deutsche Digitalpreis ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-23%20the%20spark%20der%20deutsche%20digitalpreis%202023/the%20spark%202023%20-%20finale.pdf)
 - [McKinsey - Decarbonization and beyond in the Netherlands](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/from%20ambition%20to%20action%20decarbonization%20and%20beyond%20in%20the%20netherlands/from-ambition-to-action-decarbonization-and-beyond-in-the-netherlands-final.pdf)
 - [McKinsey - Four key themes from InsureTech Connect 2023](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/insurance%20blog/four%20key%20themes%20from%20insuretech%20connect%202023/mck_itc_blogpost_v3.pdf)
+- [McKinsey - Bioweg gewinnt „THE SPARK – Der deutsche Digitalpreis ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-23%20the%20spark%20der%20deutsche%20digitalpreis%202023/the%20spark%202023%20-%20finale.pdf)
 - [McKinsey - GenAI kann akuten Bedarf bei hochqualifizierten Jobs lindern](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-24%20genai%20implikationen%20deutschlands%20arbeitsmarkt/pressemitteilung_mckinsey-analyse_genai-impliationen_arbeitsmarkt_vf.pdf)
 - [McKinsey - Modeindustrie steht unsicheres Jahr 2024 bevor – GenAI ...](https://www.mckinsey.com/de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-11-28%20state%20of%20fashion%202024/pressemitteilung%20-%20the%20state%20of%20fashion%202024%20-%20final_website.pdf)
 - [McKinsey - Our Code of Conduct](http://www.mckinsey.com/~/media/mckinsey/about%20us/code%20of%20conduct/mckinsey-our-code-of-conduct.pdf)
 - [BCG - How Resuming Student Loan Payments Will Affect ...](https://media-publications.bcg.com/How-Resuming-Student-Loan-Payments-Will-Affect-Consumer-Credit-Risk.pdf)
-- [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
 - [BCG - Responding to the New Reality in Banking](https://media-publications.bcg.com/Responding-to-the-New-Reality-in-Banking.pdf)
 
 ## Others:
