@@ -56,5 +56,4 @@
 - [PwC - Instant Payments: a spotlight on the European Commission ...](https://www.pwc.com/it/it/publications/docs/pwc-instant-payments.pdf)
 - [PwC - PwC Global CBDC Index and Stablecoin Overview 2023](https://www.pwc.com/it/it/publications/docs/pwc-global-cbdc-index-and-stablecoin-overview-2023.pdf)
 - [Roland Berger - Empowering Telecoms with Gen-AI](https://www.rolandberger.com/publications/publication_pdf/23_8_002_GB_20_Report_Empowering_Telecoms_with_Gen-AI_FINAL.pdf)
-![image](https://github.com/mario-chamorro/management_consulting_presentations/assets/33026609/3dfb5a41-8372-40f9-bb9f-8576c45524e6)
 
